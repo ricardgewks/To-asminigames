@@ -1,0 +1,492 @@
+<site version="3.0"><css/><components/><page id="p246921" pageindex="0" name="index" pp="1" cp="1"><body backgroundcolor="#99CCFF" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text300906" left="399" top="72" width="287" height="90" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000080" style="font-size:27px;"&gt;LOS VIDEOJUEGOS.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000080" class="ws20"&gt;LOS VIDEOJUEGOS.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrwAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQFQ29sb3IHBmNsTmF2eQAALTkgMiAwIDAgMiAw
+IDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFy
+dnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAg
+MiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkxPUyBWSURFT0pVRUdPUy4NCg==
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text363406" left="22" top="19" width="311" height="73" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" selected="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font style="font-size:27px;"&gt;LAS CLASES DE LOS VIDEOJUEGOS&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font class="ws20"&gt;LAS CLASES DE LOS VIDEOJUEGOS&amp;nbsp; &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAxIDAgMCAwDQpMQVMgQ0xBU0VTIERFIExPUyBWSURFT0pVRUdPUyAgDQo=
+</rvf></Component><Component type="2" id="text3" zorder="2" filename="text562906" left="794" top="8" width="262" height="128" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFCC00" style="font-size:27px;"&gt;EL JUEGO MAS VENDIDO DE TODO EL MUNDO ES MINECRAFT&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFCC00" class="ws20"&gt;EL JUEGO MAS VENDIDO DE TODO EL MUNDO ES MINECRAFT&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrtAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQFQ29sb3IE/8wAAAAALTkgMiAwIDAgMiAwIDIN
+CnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBh
+b1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAw
+IDQNCnJ2cw0KAgAAAA4AMyAxIDEgMCAwIDANCkVMIEpVRUdPIE1BUyBWRU5ESURPIERFIFRPRE8g
+RUwgTVVORE8gRVMgTUlORUNSQUZUDQo=
+</rvf></Component><Component type="3" id="image1" zorder="3" filename="image395031" width="296" height="209" originwidth="296" originheight="209" src="WSB://images\paste.jpg" previewfile="WSB://images\paste.jpg" left="398" top="163" thumbname="thumb4589359" resamplename="img4589375" exportfilename="images/paste.jpg" fp="1" lp="1"/><Component type="3" id="image3" zorder="4" filename="image548859" width="241" height="168" originwidth="241" originheight="168" src="WSB://images\paste3.jpg" previewfile="WSB://images\paste3.jpg" left="37" top="564" thumbname="thumb4589406" resamplename="img4589421" exportfilename="images/paste3.jpg" fp="1" lp="1"/><Component type="3" id="image4" zorder="5" filename="image2221593" width="225" height="225" originwidth="225" originheight="225" src="WSB://images\paste20.jpg" previewfile="WSB://images\paste20.jpg" left="811" top="166" thumbname="thumb4589453" resamplename="img4589468" exportfilename="images/paste20.jpg" fp="1" lp="1"/><Component type="3" id="image5" zorder="6" filename="image3369484" width="200" height="136" originwidth="200" originheight="136" src="WSB://images\paste22.jpg" previewfile="WSB://images\paste22.jpg" left="746" top="556" thumbname="thumb4589500" resamplename="img4589515" exportfilename="images/paste22.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="7" filename="image3792515" width="364" height="369" originwidth="491" originheight="369" src="WSB://images\paste40.jpg" previewfile="WSB://images\paste40.jpg" left="337" top="455" thumbname="thumb4589546" resamplename="img4589562" exportfilename="images/paste40.jpg" fp="1" lp="1"/><Component type="5" id="nav2" zorder="8" filename="nav4301109" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc01in.gif" mouseoverimage="WSB://images\cc01over.gif" mouseoversound="" navtext0="index" navurl0="page://p246921" navtarget0="" navstate0="0" navtext1="ESTRATEGIA" navurl1="page://p543531" navtarget1="" navstate1="0" navtext2="TERROR" navurl2="page://p541078" navtarget2="" navstate2="0" navtext3="SHOOTERS" navurl3="page://p542890" navtarget3="" navstate3="0" navtext4="SIMULADORES" navurl4="page://p543921" navtarget4="" navstate4="0" navtext5="DE PELEAS" navurl5="page://p544140" navtarget5="" navstate5="0" navtext6="CARRERAS" navurl6="page://p544328" navtarget6="" navstate6="0" navtext7="FICCION" navurl7="page://p864859" navtarget7="" navstate7="0" navtext8="SUPERVIVENCIA" navurl8="page://p1482093" navtarget8="" navstate8="0" navtext9="INFORMACION" navurl9="page://p666984#INFORMACION" navtarget9="" navstate9="0" navcount="10" width="125" height="310" preview="C:\Users\NIOSHR~1\AppData\Local\Temp\Web Page Maker\doc7K7QJ\NavESG0C" left="109" top="121" exportfilename="images/nav4301109" exportsound="" fp="1" lp="1"/></body></page><page id="p541078" pageindex="2" name="TERROR" pp="1" cp="1"><body backgroundcolor="#000000" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text928937" left="218" top="35" width="454" height="111" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Century Schoolbook" style="font-size:96px;"&gt;TERROR.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Century Schoolbook" class="ws72"&gt;TERROR.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr/AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhJDZW50dXJ5IFNjaG9vbGJvb2sEU2l6ZQJIBUNvbG9yBwhjbFNpbHZl
+cgAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJp
+Z2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsN
+cnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRh
+YnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANClRFUlJPUi4NCg==
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text1039359" left="76" top="165" width="840" height="280" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#993300" face="Britannic Bold" style="font-size:32px;"&gt;LOS JUEGOS DE TERROR ESTAN ECHOS ESPECIFICAMENTE PARACAUSARTE MIEDO Y SUSPENSO Y EN ESTE CASO HAY ALGUNOS TITULOS COMO RESIDENT EVIL,FIVE NIGHTS AT FREDYS, GRANNY,SLENDERMAN Y SAINLET HILL.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#993300" face="Britannic Bold" class="ws24"&gt;LOS JUEGOS DE TERROR ESTAN ECHOS ESPECIFICAMENTE PARACAUSARTE MIEDO Y SUSPENSO Y EN ESTE CASO HAY ALGUNOS TITULOS COMO RESIDENT EVIL,FIVE NIGHTS AT FREDYS, GRANNY,SLENDERMAN Y SAINLET HILL.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr0AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5Ccml0YW5uaWMgQm9sZARTaXplAhgFQ29sb3IDmTMAAC05IDIgMCAw
+IDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9u
+bHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpMT1MgSlVFR09TIERFIFRFUlJPUiBF
+U1RBTiBFQ0hPUyBFU1BFQ0lGSUNBTUVOVEUgUEFSQUNBVVNBUlRFIE1JRURPIFkgU1VTUEVOU08g
+WSBFTiBFU1RFIENBU08gSEFZIEFMR1VOT1MgVElUVUxPUyBDT01PIFJFU0lERU5UIEVWSUwsRklW
+RSBOSUdIVFMgQVQgRlJFRFlTLCBHUkFOTlksU0xFTkRFUk1BTiBZIFNBSU5MRVQgSElMTC4NCg==
+</rvf></Component><Component type="3" id="image1" zorder="2" filename="image649718" width="299" height="168" originwidth="299" originheight="168" src="WSB://images\paste4.jpg" previewfile="WSB://images\paste4.jpg" left="39" top="388" thumbname="thumb4589593" resamplename="img4589609" exportfilename="images/paste4.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="3" filename="image698000" width="184" height="274" originwidth="184" originheight="274" src="WSB://images\paste5.jpg" previewfile="WSB://images\paste5.jpg" left="756" top="360" thumbname="thumb4589640" resamplename="img4589656" exportfilename="images/paste5.jpg" fp="1" lp="1"/><Component type="3" id="image3" zorder="4" filename="image736328" width="189" height="267" originwidth="189" originheight="267" src="WSB://images\paste6.jpg" previewfile="WSB://images\paste6.jpg" left="438" top="566" thumbname="thumb4589687" resamplename="img4589703" exportfilename="images/paste6.jpg" fp="1" lp="1"/><Component type="5" id="nav1" zorder="5" filename="nav2919765" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc01in.gif" mouseoverimage="WSB://images\cc01over.gif" mouseoversound="" navtext0="TERROR" navtarget0="" navstate0="0" navurl1="" navtarget1="" navcount="1" width="125" height="31" preview="C:\Users\NIOSHR~1\AppData\Local\Temp\Web Page Maker\doc7K7QJ\Nav2EBQ9" left="572" top="1547" exportfilename="images/nav2919765" exportsound="" fp="1" lp="1"/></body></page><page id="p542890" pageindex="3" name="SHOOTERS" pp="1" cp="1"><body backgroundcolor="#003366" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text1472921" left="259" top="102" width="150" height="90" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Calibri" style="font-size:32px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Calibri" class="ws24"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCGAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0K
+AgAAAA4AMyAxIDAgMCAwIDANCg0K
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text1758250" left="298" top="29" width="375" height="90" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="16777215" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Book Antiqua" style="font-size:64px;background-color:#003366;"&gt;SHOOTERS.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Book Antiqua" class="ws48" style="background-color:#003366;"&gt;SHOOTERS.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgxCb29rIEFudGlxdWEEU2l6ZQIwBUNvbG9yBwdjbFdoaXRlCUJhY2tD
+b2xvcgQAM2YAAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFs
+aWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZh
+Q2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVu
+dAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdP
+cHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0
+dXJucwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KU0hP
+T1RFUlMuDQo=
+</rvf></Component><Component type="2" id="text3" zorder="2" filename="text1792093" left="101" top="149" width="848" height="221" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#99CCFF" face="Consolas" style="font-size:37px;"&gt;LOS JUEGOS DE DISPAROS O SHOOTERS SON UNOS DE LOS MAS FAMOSOS EN LOS QUE DESTACAN MAS SON CALL OF DUTY,FREE FIRE,FORNITE, HALO Y GEARS OF WAR.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#99CCFF" face="Consolas" class="ws28"&gt;LOS JUEGOS DE DISPAROS O SHOOTERS SON UNOS DE LOS MAS FAMOSOS EN LOS QUE DESTACAN MAS SON CALL OF DUTY,FREE FIRE,FORNITE, HALO Y GEARS OF WAR.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrwAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBghDb25zb2xhcwRTaXplAhwFQ29sb3IEmcz/AAAALTkgMiAwIDAgMiAw
+IDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFy
+dnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAg
+MiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANCkxPUyBKVUVHT1MgREUgRElTUEFST1MgTyBT
+SE9PVEVSUyBTT04gVU5PUyBERSBMT1MgTUFTIEZBTU9TT1MgRU4gTE9TIFFVRSBERVNUQUNBTiBN
+QVMgU09OIENBTEwgT0YgRFVUWSxGUkVFIEZJUkUsRk9STklURSwgSEFMTyBZIEdFQVJTIE9GIFdB
+Ui4NCg==
+</rvf></Component><Component type="5" id="nav1" zorder="3" filename="nav2949937" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc01in.gif" mouseoverimage="WSB://images\cc01over.gif" mouseoversound="" navtext0="SHOOTERS" navurl0="page://p542890" navtarget0="" navstate0="0" navcount="1" width="125" height="56" preview="C:\Users\NIOSHR~1\AppData\Local\Temp\Web Page Maker\doc7K7QJ\NavT5SN4" left="478" top="2189" exportfilename="images/nav2949937" exportsound="" fp="1" lp="1"/><Component type="3" id="image1" zorder="4" filename="image3438906" width="296" height="168" originwidth="296" originheight="168" src="WSB://images\paste23.jpg" previewfile="WSB://images\paste23.jpg" left="47" top="428" bgcolor="#3366FF" thumbname="thumb4589734" resamplename="img4589750" exportfilename="images/paste23.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="5" filename="image3474406" width="329" height="153" originwidth="329" originheight="153" src="WSB://images\paste24.jpg" previewfile="WSB://images\paste24.jpg" left="650" top="430" thumbname="thumb4589781" resamplename="img4589796" exportfilename="images/paste24.jpg" fp="1" lp="1"/><Component type="3" id="image3" zorder="6" filename="image3549546" width="295" height="153" originwidth="589" originheight="393" src="WSB://images\paste36.jpg" previewfile="WSB://images\paste36.jpg" left="367" top="616" thumbname="thumb4589828" resamplename="img4589843" exportfilename="images/paste36.jpg" fp="1" lp="1"/></body></page><page id="p543531" pageindex="1" name="ESTRATEGIA" pp="1" cp="1"><body backgroundcolor="#003366" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text2021875" left="159" top="143" width="4" height="1" html="Double click to edit text" fp="1" lp="1" backup="1"/><Component type="2" id="text2" zorder="1" filename="text2034843" left="50" top="114" width="936" height="164" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#808000" face="Colonna MT" style="font-size:35px;"&gt;TAMBIEN HAY VARIOS VIDEOJUEGOS DE ESTRATEGIA COMO...&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808000" face="Colonna MT" style="font-size:35px;"&gt;8&amp;nbsp; BALL 'POLL , AJEDREZ GAME,CLASH ROYALE,&amp;nbsp; PLANTAS VS ZOMBIES,ANGRY BIRDS Y FIFA.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#808000" face="Colonna MT" class="ws26"&gt;TAMBIEN HAY VARIOS VIDEOJUEGOS DE ESTRATEGIA COMO...&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808000" face="Colonna MT" class="ws26"&gt;8&amp;nbsp; BALL 'POLL , AJEDREZ GAME,CLASH ROYALE,&amp;nbsp; PLANTAS VS ZOMBIES,ANGRY BIRDS Y FIFA.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr2AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgpDb2xvbm5hIE1UBFNpemUCGgVDb2xvcgcHY2xPbGl2ZQAALTkgMiAw
+IDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFk
+T25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkg
+MiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAyIDAgMCAwIDANClRBTUJJRU4gSEFZIFZBUklPUyBW
+SURFT0pVRUdPUyBERSBFU1RSQVRFR0lBIENPTU8uLi4NCjggIEJBTEwgJ1BPTEwgLCBBSkVEUkVa
+IEdBTUUsQ0xBU0ggUk9ZQUxFLCAgUExBTlRBUyBWUyBaT01CSUVTLEFOR1JZIEJJUkRTIFkgRklG
+QS4NCg==
+</rvf></Component><Component type="2" id="text3" zorder="2" filename="text2322156" left="331" top="6" width="441" height="90" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Castellar" style="font-size:64px;"&gt;ESTRATEGIA.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Castellar" class="ws48"&gt;ESTRATEGIA.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr1AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBglDYXN0ZWxsYXIEU2l6ZQIwBUNvbG9yBwdjbFdoaXRlAAAtOSAyIDAg
+MCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRP
+bmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAy
+IDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRVNUUkFURUdJQS4NCg==
+</rvf></Component><Component type="3" id="image1" zorder="3" filename="image449625" width="248" height="203" originwidth="248" originheight="203" src="WSB://images\paste1.jpg" previewfile="WSB://images\paste1.jpg" left="414" top="559" thumbname="thumb4589875" resamplename="img4589890" exportfilename="images/paste1.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="4" filename="image794187" width="305" height="165" originwidth="305" originheight="165" src="WSB://images\paste7.jpg" previewfile="WSB://images\paste7.jpg" left="36" top="574" thumbname="thumb4589921" resamplename="img4589937" exportfilename="images/paste7.jpg" fp="1" lp="1"/><Component type="3" id="image3" zorder="5" filename="image2137796" width="299" height="168" originwidth="299" originheight="168" src="WSB://images\paste19.jpg" previewfile="WSB://images\paste19.jpg" left="393" top="302" thumbname="thumb4589968" resamplename="img4589984" exportfilename="images/paste19.jpg" fp="1" lp="1"/><Component type="5" id="nav1" zorder="6" filename="nav2930515" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc01in.gif" mouseoverimage="WSB://images\cc01over.gif" mouseoversound="" navtext0="ESTRATEGIA" navurl0="page://p543531" navtarget0="" navstate0="0" navcount="1" width="125" height="32" preview="C:\Users\NIOSHR~1\AppData\Local\Temp\Web Page Maker\doc7K7QJ\NavJO2IK" left="377" top="1471" exportfilename="images/nav2930515" exportsound="" fp="1" lp="1"/><Component type="3" id="image4" zorder="7" filename="image3503609" width="274" height="175" originwidth="274" originheight="175" src="WSB://images\paste25.jpg" previewfile="WSB://images\paste25.jpg" left="727" top="594" thumbname="thumb4590015" resamplename="img4590031" exportfilename="images/paste25.jpg" fp="1" lp="1"/></body></page><page id="p543921" pageindex="4" name="SIMULADORES" pp="1" cp="1"><body backgroundcolor="#339966" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text2364687" left="284" top="38" width="514" height="90" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Calibri" style="font-size:64px;"&gt;SIMULADORES.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#FFFFFF" face="Calibri" class="ws48"&gt;SIMULADORES.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrzAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCMAVDb2xvcgcHY2xXaGl0ZQAALTkgMiAwIDAg
+MiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25s
+eRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAw
+IDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANClNJTVVMQURPUkVTLg0K
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text2425640" left="70" top="169" width="876" height="350" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Bodoni MT Condensed" style="font-size:48px;"&gt;TAMBIEN HAY MUCHOS JUEGOS DE SIMULADORES OSEA QUE INTENTAN DARTE UNA IDEA DE LO QUE SUCEDERIA COMO PO EJEMPLO:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="Bodoni MT Condensed" style="font-size:48px;"&gt;GTA,GOATSIMULATOR,DOCSIMULATOR,FARMING SIMULATOR, CAT OFICE SIMULATOR Y FLY SIMULATOR.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Bodoni MT Condensed" class="ws36"&gt;TAMBIEN HAY MUCHOS JUEGOS DE SIMULADORES OSEA QUE INTENTAN DARTE UNA IDEA DE LO QUE SUCEDERIA COMO PO EJEMPLO:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="Bodoni MT Condensed" class="ws36"&gt;GTA,GOATSIMULATOR,DOCSIMULATOR,FARMING SIMULATOR, CAT OFICE SIMULATOR Y FLY SIMULATOR.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr/AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhNCb2RvbmkgTVQgQ29uZGVuc2VkBFNpemUCJAVDb2xvcgcHY2xCbGFj
+awAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRp
+b25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJp
+Z2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsN
+cnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRh
+YnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AMyAyIDAgMCAwIDANClRBTUJJRU4gSEFZ
+IE1VQ0hPUyBKVUVHT1MgREUgU0lNVUxBRE9SRVMgT1NFQSBRVUUgSU5URU5UQU4gREFSVEUgVU5B
+IElERUEgREUgTE8gUVVFIFNVQ0VERVJJQSBDT01PIFBPIEVKRU1QTE86DQpHVEEsR09BVFNJTVVM
+QVRPUixET0NTSU1VTEFUT1IsRkFSTUlORyBTSU1VTEFUT1IsIENBVCBPRklDRSBTSU1VTEFUT1Ig
+WSBGTFkgU0lNVUxBVE9SLg0K
+</rvf></Component><Component type="3" id="image1" zorder="2" filename="image919937" width="197" height="255" originwidth="197" originheight="255" src="WSB://images\paste9.jpg" previewfile="WSB://images\paste9.jpg" left="44" top="574" bgcolor="#333300" thumbname="thumb4590062" resamplename="img4590078" exportfilename="images/paste9.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="3" filename="image1856484" width="299" height="168" originwidth="299" originheight="168" src="WSB://images\paste17.jpg" previewfile="WSB://images\paste17.jpg" left="356" top="503" thumbname="thumb4590109" resamplename="img4590125" exportfilename="images/paste17.jpg" fp="1" lp="1"/><Component type="3" id="image3" zorder="4" filename="image2034265" width="225" height="225" originwidth="225" originheight="225" src="WSB://images\paste18.jpg" previewfile="WSB://images\paste18.jpg" left="788" top="623" thumbname="thumb4590156" resamplename="img4590171" exportfilename="images/paste18.jpg" fp="1" lp="1"/><Component type="5" id="nav1" zorder="5" filename="nav2970250" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc01in.gif" mouseoverimage="WSB://images\cc01over.gif" mouseoversound="" navtext0="SIMULADORES" navurl0="page://p543921" navtarget0="" navstate0="0" navcount="1" width="123" height="31" preview="C:\Users\NIOSHR~1\AppData\Local\Temp\Web Page Maker\doc7K7QJ\Nav1FQ62" left="359" top="2543" exportfilename="images/nav2970250" exportsound="" fp="1" lp="1"/></body></page><page id="p544140" pageindex="5" name="DE PELEAS" pp="1" cp="1"><body backgroundcolor="#993300" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text2656312" left="389" top="13" width="269" height="90" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Eras Demi ITC" style="font-size:64px;"&gt;PELEAS.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Eras Demi ITC" class="ws48"&gt;PELEAS.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrqAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1FcmFzIERlbWkgSVRDBFNpemUCMAAALTkgMiAwIDAgMiAwIDINCnJ2
+cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0
+eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4AMyAxIDAgMCAwIDANClBFTEVBUy4NCg==
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text2683687" left="132" top="140" width="791" height="213" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Footlight MT Light" style="font-size:37px;"&gt;HAY VIDEOJUEGOS DE PELEAS MUY RECONOCIDOS COMO THE KING OF FIGTHERS,STREET FIGHTERS MORTAL KOMBAT, INJUSTICE&amp;nbsp; MARVEL VS CAPCOM Y DRAGON BALL SPARKING ZERO.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Footlight MT Light" style="font-size:37px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Calibri" style="font-size:37px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Footlight MT Light" class="ws28"&gt;HAY VIDEOJUEGOS DE PELEAS MUY RECONOCIDOS COMO THE KING OF FIGTHERS,STREET FIGHTERS MORTAL KOMBAT, INJUSTICE&amp;nbsp; MARVEL VS CAPCOM Y DRAGON BALL SPARKING ZERO.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Footlight MT Light" class="ws28"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#C0C0C0" face="Calibri" class="ws28"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpLAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCHAVDb2xvcgcIY2xTaWx2ZXIAAQlTdHlsZU5h
+bWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYSRm9vdGxpZ2h0IE1UIExpZ2h0BFNp
+emUCHAVDb2xvcgcIY2xTaWx2ZXIAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5h
+bWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxp
+Z25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxp
+Z24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90
+ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9E
+b05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMiAw
+IDAgMCAwDQpIQVkgVklERU9KVUVHT1MgREUgUEVMRUFTIE1VWSBSRUNPTk9DSURPUyBDT01PIFRI
+RSBLSU5HIE9GIEZJR1RIRVJTLFNUUkVFVCBGSUdIVEVSUyBNT1JUQUwgS09NQkFULCBJTkpVU1RJ
+Q0UgIE1BUlZFTCBWUyBDQVBDT00gWSBEUkFHT04gQkFMTCBTUEFSS0lORyBaRVJPLg0KDQozIDEg
+MCAwIDAgMA0KDQo=
+</rvf></Component><Component type="3" id="image1" zorder="2" filename="image829859" width="225" height="225" originwidth="225" originheight="225" src="WSB://images\paste8.jpg" previewfile="WSB://images\paste8.jpg" left="759" top="645" thumbname="thumb4590203" resamplename="img4590218" exportfilename="images/paste8.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="3" filename="image1204578" width="184" height="273" originwidth="184" originheight="273" src="WSB://images\paste13.jpg" previewfile="WSB://images\paste13.jpg" left="72" top="601" thumbname="thumb4590250" resamplename="img4590265" exportfilename="images/paste13.jpg" fp="1" lp="1"/><Component type="3" id="image3" zorder="4" filename="image1699218" width="299" height="168" originwidth="299" originheight="168" src="WSB://images\paste14.jpg" previewfile="WSB://images\paste14.jpg" left="346" top="517" thumbname="thumb4590296" resamplename="img4590312" exportfilename="images/paste14.jpg" fp="1" lp="1"/><Component type="3" id="image4" zorder="5" filename="image1742640" width="244" height="138" originwidth="244" originheight="138" src="WSB://images\paste15.jpg" previewfile="WSB://images\paste15.jpg" left="728" top="397" thumbname="thumb4590343" resamplename="img4590359" exportfilename="images/paste15.jpg" fp="1" lp="1"/><Component type="3" id="image5" zorder="6" filename="image1803796" width="192" height="118" originwidth="192" originheight="118" src="WSB://images\paste16.jpg" previewfile="WSB://images\paste16.jpg" left="53" top="394" thumbname="thumb4590390" resamplename="img4590406" exportfilename="images/paste16.jpg" fp="1" lp="1"/><Component type="5" id="nav1" zorder="7" filename="nav2989390" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc01in.gif" mouseoverimage="WSB://images\cc01over.gif" mouseoversound="" navtext0="DE PELEAS" navurl0="page://p544140" navtarget0="" navstate0="0" navcount="1" width="125" height="31" preview="C:\Users\NIOSHR~1\AppData\Local\Temp\Web Page Maker\doc7K7QJ\NavJ20VS" left="391" top="878" exportfilename="images/nav2989390" exportsound="" fp="1" lp="1"/></body></page><page id="p544328" pageindex="6" name="CARRERAS" pp="1" cp="1"><body backgroundcolor="#77B86B" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text2940218" left="284" top="35" width="297" height="75" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Footlight MT Light" style="font-size:64px;"&gt;CARRERAS.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Footlight MT Light" class="ws48"&gt;CARRERAS.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrvAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhJGb290bGlnaHQgTVQgTGlnaHQEU2l6ZQIwAAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2
+cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAgMCAy
+IDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KQ0FSUkVSQVMuDQo=
+</rvf></Component><Component type="5" id="nav1" zorder="2" filename="nav3010875" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc01in.gif" mouseoverimage="WSB://images\cc01over.gif" mouseoversound="" navtext0="CARRERAS" navurl0="page://p544328" navtarget0="" navstate0="0" navcount="1" width="125" height="31" preview="C:\Users\NIOSHR~1\AppData\Local\Temp\Web Page Maker\doc7K7QJ\Nav3OKH9" left="223" top="2707" exportfilename="images/nav3010875" exportsound="" fp="1" lp="1"/><Component type="3" id="image1" zorder="3" filename="image872250" width="225" height="225" originwidth="225" originheight="225" src="WSB://images\paste26.jpg" previewfile="WSB://images\paste26.jpg" left="256" top="375" thumbname="thumb4590437" resamplename="img4590453" exportfilename="images/paste26.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="4" filename="image1270500" width="299" height="168" originwidth="299" originheight="168" src="WSB://images\paste30.jpg" previewfile="WSB://images\paste30.jpg" left="751" top="604" thumbname="thumb4590484" resamplename="img4590500" exportfilename="images/paste30.jpg" fp="1" lp="1"/><Component type="3" id="image5" zorder="5" filename="image3437515" width="207" height="249" originwidth="144" originheight="203" src="WSB://images\paste34.jpg" previewfile="WSB://images\paste34.jpg" left="523" top="362" thumbname="thumb4590531" resamplename="img4590546" exportfilename="images/paste34.jpg" fp="1" lp="1"/><Component type="2" id="text2" zorder="1" filename="text2976218" left="78" top="203" width="904" height="343" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#33CCCC" face="Haettenschweiler" style="font-size:37px;"&gt;HAY JUGOS DE CARRERAS MUY RECONOCIDOS Y UNOS NO TANTO.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#33CCCC" face="Haettenschweiler" style="font-size:37px;"&gt;ESTOS SON ALGUNOS EJEMPLOS:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#33CCCC" face="Haettenschweiler" style="font-size:37px;"&gt;FORZA HORIZON,CHAVO KART,CRASH CAR RACING,Y BLUR.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#33CCCC" face="Haettenschweiler" class="ws28"&gt;HAY JUGOS DE CARRERAS MUY RECONOCIDOS Y UNOS NO TANTO.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#33CCCC" face="Haettenschweiler" class="ws28"&gt;ESTOS SON ALGUNOS EJEMPLOS:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#33CCCC" face="Haettenschweiler" class="ws28"&gt;FORZA HORIZON,CHAVO KART,CRASH CAR RACING,Y BLUR.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr4AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhBIYWV0dGVuc2Nod2VpbGVyBFNpemUCHAVDb2xvcgQzzMwAAAAtOSAy
+IDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1Jl
+YWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDMgMCAwIDAgMA0KSEFZIEpVR09TIERFIENBUlJF
+UkFTIE1VWSBSRUNPTk9DSURPUyBZIFVOT1MgTk8gVEFOVE8uDQpFU1RPUyBTT04gQUxHVU5PUyBF
+SkVNUExPUzoNCkZPUlpBIEhPUklaT04sQ0hBVk8gS0FSVCxDUkFTSCBDQVIgUkFDSU5HLFkgQkxV
+Ui4NCg==
+</rvf></Component><Component type="3" id="image3" zorder="6" filename="image3616375" width="244" height="186" originwidth="528" originheight="402" src="WSB://images\paste37.jpg" previewfile="WSB://images\paste37.jpg" left="30" top="620" thumbname="thumb4590578" resamplename="img4590593" exportfilename="images/paste37.jpg" fp="1" lp="1"/></body></page><page id="p864859" pageindex="7" name="FICCION" pp="1" cp="1"><body backgroundcolor="#000000" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text3254296" left="310" top="14" width="274" height="90" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FF00" face="Modern No. 20" style="font-size:64px;"&gt;FICCIÓN.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FF00" face="Modern No. 20" class="ws48"&gt;FICCIÓN.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr4AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Nb2Rlcm4gTm8uIDIwBFNpemUCMAVDb2xvcgcGY2xMaW1lAAAtOSAy
+IDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1Jl
+YWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRklDQ0nTTi4NCg==
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text3397328" left="73" top="172" width="880" height="228" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#00FF00" face="Calibri" style="font-size:37px;"&gt;TAMBIEN HAY VARIOS JUEGOS DE FICCION OSEA DE SUPERHEROES EN LOS QUE ESTAN ALGUNOS COMO MARVEL RIVALS,LEGO MARVEL Y BATMAN.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#00FF00" face="Calibri" class="ws28"&gt;TAMBIEN HAY VARIOS JUEGOS DE FICCION OSEA DE SUPERHEROES EN LOS QUE ESTAN ALGUNOS COMO MARVEL RIVALS,LEGO MARVEL Y BATMAN.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQryAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCHAVDb2xvcgcGY2xMaW1lAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KVEFNQklFTiBIQVkgVkFSSU9TIEpVRUdP
+UyBERSBGSUNDSU9OIE9TRUEgREUgU1VQRVJIRVJPRVMgRU4gTE9TIFFVRSBFU1RBTiBBTEdVTk9T
+IENPTU8gTUFSVkVMIFJJVkFMUyxMRUdPIE1BUlZFTCBZIEJBVE1BTi4NCg==
+</rvf></Component><Component type="5" id="nav1" zorder="2" filename="nav3023937" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc01in.gif" mouseoverimage="WSB://images\cc01over.gif" mouseoversound="" navtext0="FICCION" navurl0="page://p864859" navtarget0="" navstate0="0" navcount="1" width="125" height="260" preview="C:\Users\NIOSHR~1\AppData\Local\Temp\Web Page Maker\doc7K7QJ\Nav0HP9Q" left="45" top="858" exportfilename="images/nav3023937" exportsound="" fp="1" lp="1"/><Component type="3" id="image1" zorder="3" filename="image934031" width="299" height="242" originwidth="299" originheight="168" src="WSB://images\paste27.jpg" previewfile="WSB://images\paste27.jpg" left="23" top="393" thumbname="thumb4590625" resamplename="img4590640" exportfilename="images/paste27.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="4" filename="image1855953" width="194" height="259" originwidth="194" originheight="259" src="WSB://images\paste31.jpg" previewfile="WSB://images\paste31.jpg" left="396" top="383" fp="1" thumbname="thumb4590671" resamplename="img4590687" exportfilename="images/paste31.jpg" lp="1"/><Component type="3" id="image3" zorder="5" filename="image3682421" width="278" height="278" originwidth="589" originheight="589" src="WSB://images\paste38.jpg" previewfile="WSB://images\paste38.jpg" left="726" top="370" thumbname="thumb4590718" resamplename="img4590734" exportfilename="images/paste38.jpg" fp="1" lp="1"/></body></page><page id="p1482093" pageindex="8" name="SUPERVIVENCIA" pp="1" cp="1"><body backgroundcolor="#B8E0DC" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text1513453" left="264" top="5" width="532" height="90" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Modern No. 20" style="font-size:64px;"&gt;SUPERVIVENCIA.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#CCFFFF" face="Modern No. 20" class="ws48"&gt;SUPERVIVENCIA.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr1AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg1Nb2Rlcm4gTm8uIDIwBFNpemUCMAVDb2xvcgTM//8AAAAtOSAyIDAg
+MCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARU
+YWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRP
+bmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAy
+IDAgMCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KU1VQRVJWSVZFTkNJQS4NCg==
+</rvf></Component><Component type="2" id="text2" zorder="1" filename="text1574687" left="227" top="160" width="0" height="9" html="Double click to edit text" fp="1" lp="1" backup="1"/><Component type="2" id="text3" zorder="2" filename="text1591234" left="78" top="115" width="881" height="153" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#33CCCC" face="Tahoma" style="font-size:37px;"&gt;EN ELCASO DE LOSJUEGOS DE SUPERVIVENCIA HAY JUEGOS COMO THE FOREST, LEFT 4 DEAD,DAYZ Y DEAD ISLAND Y MINECRAFT.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#33CCCC" face="Tahoma" class="ws28"&gt;EN ELCASO DE LOSJUEGOS DE SUPERVIVENCIA HAY JUEGOS COMO THE FOREST, LEFT 4 DEAD,DAYZ Y DEAD ISLAND Y MINECRAFT.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQruAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIcBUNvbG9yBDPMzAAAAC05IDIgMCAwIDIgMCAy
+DQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZw
+YW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIg
+MCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpFTiBFTENBU08gREUgTE9TSlVFR09TIERFIFNV
+UEVSVklWRU5DSUEgSEFZIEpVRUdPUyBDT01PIFRIRSBGT1JFU1QsIExFRlQgNCBERUFELERBWVog
+WSBERUFEIElTTEFORCBZIE1JTkVDUkFGVC4NCg==
+</rvf></Component><Component type="3" id="image1" zorder="3" filename="image1105921" width="290" height="174" originwidth="290" originheight="174" src="WSB://images\paste11.jpg" previewfile="WSB://images\paste11.jpg" left="25" top="313" thumbname="thumb4590765" resamplename="img4590781" exportfilename="images/paste11.jpg" fp="1" lp="1"/><Component type="3" id="image2" zorder="4" filename="image1154968" width="310" height="163" originwidth="310" originheight="163" src="WSB://images\paste12.jpg" previewfile="WSB://images\paste12.jpg" left="656" top="315" thumbname="thumb4590812" resamplename="img4590828" exportfilename="images/paste12.jpg" fp="1" lp="1"/><Component type="3" id="image3" zorder="5" filename="image2283140" width="225" height="225" originwidth="225" originheight="225" src="WSB://images\paste21.jpg" previewfile="WSB://images\paste21.jpg" left="386" top="279" thumbname="thumb4590859" resamplename="img4590875" exportfilename="images/paste21.jpg" fp="1" lp="1"/><Component type="5" id="nav1" zorder="6" filename="nav3038312" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="5" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="WSB://images\cc01in.gif" mouseoverimage="WSB://images\cc01over.gif" mouseoversound="" navtext0="SUPERVIVENCIA" navurl0="page://p1482093" navtarget0="" navstate0="0" navcount="1" width="125" height="74" preview="C:\Users\NIOSHR~1\AppData\Local\Temp\Web Page Maker\doc7K7QJ\Nav1VD9V" left="397" top="2783" exportfilename="images/nav3038312" exportsound="" fp="1" lp="1"/><Component type="3" id="image4" zorder="7" filename="image3472781" width="252" height="296" originwidth="589" originheight="820" src="WSB://images\paste35.jpg" previewfile="WSB://images\paste35.jpg" left="392" top="589" thumbname="thumb4590906" resamplename="img4590921" exportfilename="images/paste35.jpg" fp="1" lp="1"/></body></page><page id="p666984" pageindex="9" name="INFORMACION" pp="1" cp="1"><body backgroundcolor="#FFCC99" bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="2" id="text1" zorder="0" filename="text694218" left="0" top="57" width="804" height="314" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:27px;"&gt;Un videojuego es un juego electronico en el que una o mas personas interactuan,por medio de un controlador,con un dispositivo dotado de imagenes de video.Este dispositivo electronico,conocido generalmente como plataforma,puede ser un ordenador,una maquina arcade,una videoconsola o un dispositivo portatil (un telefono).Los videojuegos son hoy por hoy una de las principales industriasdel arte y del entretenimiento. &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws20"&gt;Un videojuego es un juego electronico en el que una o mas personas interactuan,por medio de un controlador,con un dispositivo dotado de imagenes de video.Este dispositivo electronico,conocido generalmente como plataforma,puede ser un ordenador,una maquina arcade,una videoconsola o un dispositivo portatil (un telefono).Los videojuegos son hoy por hoy una de las principales industriasdel arte y del entretenimiento. &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoqAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIUBUNvbG9yBwZjbExpbWUAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkR
+cnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAw
+IDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpVbiB2aWRlb2p1ZWdvIGVzIHVuIGp1ZWdv
+IGVsZWN0cm9uaWNvIGVuIGVsIHF1ZSB1bmEgbyBtYXMgcGVyc29uYXMgaW50ZXJhY3R1YW4scG9y
+IG1lZGlvIGRlIHVuIGNvbnRyb2xhZG9yLGNvbiB1biBkaXNwb3NpdGl2byBkb3RhZG8gZGUgaW1h
+Z2VuZXMgZGUgdmlkZW8uRXN0ZSBkaXNwb3NpdGl2byBlbGVjdHJvbmljbyxjb25vY2lkbyBnZW5l
+cmFsbWVudGUgY29tbyBwbGF0YWZvcm1hLHB1ZWRlIHNlciB1biBvcmRlbmFkb3IsdW5hIG1hcXVp
+bmEgYXJjYWRlLHVuYSB2aWRlb2NvbnNvbGEgbyB1biBkaXNwb3NpdGl2byBwb3J0YXRpbCAodW4g
+dGVsZWZvbm8pLkxvcyB2aWRlb2p1ZWdvcyBzb24gaG95IHBvciBob3kgdW5hIGRlIGxhcyBwcmlu
+Y2lwYWxlcyBpbmR1c3RyaWFzZGVsIGFydGUgeSBkZWwgZW50cmV0ZW5pbWllbnRvLiANCg==
+</rvf></Component><Component type="3" id="image1" zorder="1" filename="image785609" width="299" height="168" originwidth="299" originheight="168" src="WSB://images\paste4.jpg" previewfile="WSB://images\paste4.jpg" left="187" top="292" bgcolor="" fp="1" thumbname="thumb4590953" resamplename="img4590968" exportfilename="images/paste4.jpg" lp="1"/><Component type="2" id="text2" zorder="2" filename="text883125" left="8" top="0" width="712" height="90" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:48px;"&gt;¿QUE ES UN VIDEOJUEGO?&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws36"&gt;¿QUE ES UN VIDEOJUEGO?&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAiQAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQq/UVVFIEVTIFVOIFZJREVPSlVFR08/DQo=
+</rvf></Component><Component type="2" id="text3" zorder="3" filename="text1010343" left="628" top="387" width="12" height="-2" html="Double click to edit text" fp="1" lp="1" backup="1"/><Component type="2" id="text4" zorder="4" filename="text1014437" left="5" top="503" width="863" height="90" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:48px;"&gt;HISTORIA DE LOS VIDEOJUEGOS&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws36"&gt;HISTORIA DE LOS VIDEOJUEGOS&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAiQAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQpISVNUT1JJQSBERSBMT1MgVklERU9KVUVHT1MNCg==
+</rvf></Component><Component type="2" id="text5" zorder="5" filename="text1059671" left="0" top="563" width="800" height="299" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:27px;"&gt;Los origenes del videojuego se remontan a la decada de 1950,cuando se llevaron a cabo los primeros intentospor implementarpor implementar programas de caracter ludico tras la creacion de las primeras supercomputadoras pero no fue hasta loa decada de los 70s cuando esta industria empezo a ser mas popular,gracias a los juegos arcade computer space o pong poco despues llegarian los videojuegos a los hogares gracias a las consolas domesticas. la mas importante fue la Atari 2600 con su sitema de cartuchos intercambiables.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws20"&gt;Los origenes del videojuego se remontan a la decada de 1950,cuando se llevaron a cabo los primeros intentospor implementarpor implementar programas de caracter ludico tras la creacion de las primeras supercomputadoras pero no fue hasta loa decada de los 70s cuando esta industria empezo a ser mas popular,gracias a los juegos arcade computer space o pong poco despues llegarian los videojuegos a los hogares gracias a las consolas domesticas. la mas importante fue la Atari 2600 con su sitema de cartuchos intercambiables.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQpMb3Mgb3JpZ2VuZXMgZGVsIHZpZGVvanVlZ28gc2UgcmVtb250YW4g
+YSBsYSBkZWNhZGEgZGUgMTk1MCxjdWFuZG8gc2UgbGxldmFyb24gYSBjYWJvIGxvcyBwcmltZXJv
+cyBpbnRlbnRvc3BvciBpbXBsZW1lbnRhcnBvciBpbXBsZW1lbnRhciBwcm9ncmFtYXMgZGUgY2Fy
+YWN0ZXIgbHVkaWNvIHRyYXMgbGEgY3JlYWNpb24gZGUgbGFzIHByaW1lcmFzIHN1cGVyY29tcHV0
+YWRvcmFzIHBlcm8gbm8gZnVlIGhhc3RhIGxvYSBkZWNhZGEgZGUgbG9zIDcwcyBjdWFuZG8gZXN0
+YSBpbmR1c3RyaWEgZW1wZXpvIGEgc2VyIG1hcyBwb3B1bGFyLGdyYWNpYXMgYSBsb3MganVlZ29z
+IGFyY2FkZSBjb21wdXRlciBzcGFjZSBvIHBvbmcgcG9jbyBkZXNwdWVzIGxsZWdhcmlhbiBsb3Mg
+dmlkZW9qdWVnb3MgYSBsb3MgaG9nYXJlcyBncmFjaWFzIGEgbGFzIGNvbnNvbGFzIGRvbWVzdGlj
+YXMuIGxhIG1hcyBpbXBvcnRhbnRlIGZ1ZSBsYSBBdGFyaSAyNjAwIGNvbiBzdSBzaXRlbWEgZGUg
+Y2FydHVjaG9zIGludGVyY2FtYmlhYmxlcy4NCg==
+</rvf></Component><Component type="2" id="text6" zorder="6" filename="text1638109" left="0" top="880" width="797" height="356" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:27px;"&gt;En la decada de los 80. la acompañia Atari compartio su dominio de esta industria junto y Nitendo v (con su popular Nitendo Entertainment System ) y SEGA . Paralelamente , surge una generacion de ordenadores personalesasequibles y con capacidades graficas que llegaron a los hogares de millonea de familias . como fueron el&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Comodore 64 o el MSX . Ademas , la mayoria de los principales generos que existen&amp;nbsp; hoy en dia ( plataforma , lucha ,accion , aveentura)se desarollaron en estaepoca . Ademas . en estadeecada aparecieron tambien las primeras . pero estasno eran tan conosidas hasta1989&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws20"&gt;En la decada de los 80. la acompañia Atari compartio su dominio de esta industria junto y Nitendo v (con su popular Nitendo Entertainment System ) y SEGA . Paralelamente , surge una generacion de ordenadores personalesasequibles y con capacidades graficas que llegaron a los hogares de millonea de familias . como fueron el&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Comodore 64 o el MSX . Ademas , la mayoria de los principales generos que existen&amp;nbsp; hoy en dia ( plataforma , lucha ,accion , aveentura)se desarollaron en estaepoca . Ademas . en estadeecada aparecieron tambien las primeras . pero estasno eran tan conosidas hasta1989&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQriAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAhQAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAO
+AQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2Vu
+dGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYL
+UmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3Rl
+Y3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIA
+AAAOADMgMSAwIDAgMCAwDQpFbiBsYSBkZWNhZGEgZGUgbG9zIDgwLiBsYSBhY29tcGHxaWEgQXRh
+cmkgY29tcGFydGlvIHN1IGRvbWluaW8gZGUgZXN0YSBpbmR1c3RyaWEganVudG8geSBOaXRlbmRv
+IHYgKGNvbiBzdSBwb3B1bGFyIE5pdGVuZG8gRW50ZXJ0YWlubWVudCBTeXN0ZW0gKSB5IFNFR0Eg
+LiBQYXJhbGVsYW1lbnRlICwgc3VyZ2UgdW5hIGdlbmVyYWNpb24gZGUgb3JkZW5hZG9yZXMgcGVy
+c29uYWxlc2FzZXF1aWJsZXMgeSBjb24gY2FwYWNpZGFkZXMgZ3JhZmljYXMgcXVlIGxsZWdhcm9u
+IGEgbG9zIGhvZ2FyZXMgZGUgbWlsbG9uZWEgZGUgZmFtaWxpYXMgLiBjb21vIGZ1ZXJvbiBlbCAg
+ICAgQ29tb2RvcmUgNjQgbyBlbCBNU1ggLiBBZGVtYXMgLCBsYSBtYXlvcmlhIGRlIGxvcyBwcmlu
+Y2lwYWxlcyBnZW5lcm9zIHF1ZSBleGlzdGVuICBob3kgZW4gZGlhICggcGxhdGFmb3JtYSAsIGx1
+Y2hhICxhY2Npb24gLCBhdmVlbnR1cmEpc2UgZGVzYXJvbGxhcm9uIGVuIGVzdGFlcG9jYSAuIEFk
+ZW1hcyAuIGVuIGVzdGFkZWVjYWRhIGFwYXJlY2llcm9uIHRhbWJpZW4gbGFzIHByaW1lcmFzIC4g
+cGVybyBlc3Rhc25vIGVyYW4gdGFuIGNvbm9zaWRhcyBoYXN0YTE5ODkNCg==
+</rvf></Component><Component type="3" id="image2" zorder="7" filename="image3049031" width="194" height="259" originwidth="194" originheight="259" src="WSB://images\paste28.jpg" previewfile="WSB://images\paste28.jpg" left="331" top="1226" fp="1" thumbname="thumb4591000" resamplename="img4591015" exportfilename="images/paste28.jpg" lp="1"/></body></page></site>
